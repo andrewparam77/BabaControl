@@ -19,9 +19,6 @@ object Prefs {
     }
 
     // === SUPABASE ===
-    // Сюда вставь Project URL из Supabase → Project Settings → API
-    const val SB_URL = "https://ТВОЙ-ПРОЕКТ.supabase.co"
-
-    // Сюда вставь anon public ключ (длинная строка eyJ...)
-    const val SB_KEY = "ТВОЙ-ANON-КЛЮЧ"
+const val SB_URL = "https://jqohgyoixmthfvufoyrk.supabase.co"
+const val SB_KEY = "sb_publishable_sSffhzubCmVpvK63HHCvVQ_RjyOFUdT"
 }
