@@ -20,5 +20,5 @@ object Prefs {
 
     // === SUPABASE ===
 const val SB_URL = "https://jqohgyoixmthfvufoyrk.supabase.co"
-const val SB_KEY = "sb_publishable_sSffhzubCmVpvK63HHCvVQ_RjyOFUdT"
+const val SB_KEY = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Impxb2hneW9peG10aGZ2dWZveXJrIiwicm9sZSI6ImFub24iLCJpYXQiOjE3OTAxNjMwNjAsImV4cCI6MjEwNTczOTA2MH0.h5eJWQNJYKJ1UaxryXx21Nt_4f26DKDAGvI8i-QqX9o"
 }
